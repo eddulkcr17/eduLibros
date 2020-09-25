@@ -1,0 +1,9 @@
+admin
+
+correo admin@gmail.com
+password 12345678
+
+vendedor
+
+correo mishel@gmail.com
+password 12345678
